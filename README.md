@@ -9,7 +9,7 @@
 - 🦄 I'm good at React、Vue、Webpack、Vite
 - 🌱 I’m currently learning English
 - 📫 How to reach me: <errorje@163.com>、<errorje@gmail.com>
-- 🔗 Here is my blog: <https://github.com/bowencool/blog/issues>
+- 🔗 Here is my blog: <https://www.yuque.com/junywuuuu91>
 
 <!-- - 😄 Pronouns: ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
